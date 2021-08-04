@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Flagship>
+  <Map>
+    <IMapObject>
+      <Water>
+        
+      </Water>
+
+      <Ship>
+        
+        <ShipSquare> </ShipSquare>
+      
+      </Ship>
+
+      <Land>
+        
+      </Land>
+    </IMapObject>
+
+  </Map>
+
+</Flagship>
